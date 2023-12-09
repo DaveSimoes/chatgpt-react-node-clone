@@ -13,6 +13,9 @@
 
 The ChatGPT clone is a simple web application developed with the OpenAI library and built with the React library and Node.js that will allow users to chat with an AI language model that responds in real time.
 
+#Pré-Requisitos:
+- Instalar Node : https://nodejs.org/en
+
 # Tecnologia Utilizada :
 
 ### Backend
@@ -25,8 +28,25 @@ The ChatGPT clone is a simple web application developed with the OpenAI library 
   - React
   - Javascript
 
-# Se faz necessário instalar as dependências:
+# Favor instalar as dependências:
 ```sh
  npm i cors dotenv express openai
+```
+### Para executar o serviço do backend é preciso escrever em seu terminal conforme as instruções abaixo.
+
+```sh
+$ cd server
+$ npm install
+$ npm start
+```
+
+Feito isso o serviço de backend estará funcionando na porta :3000. 
+
+### Para executar o serviço do frontend, favor escrever em seu terminal cconforme as instruções abaixo.
+
+```sh
+$ cd web
+$ npm install
+$ npm start
 ```
 
