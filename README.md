@@ -18,6 +18,8 @@ Este clone do ChatGPT é um aplicativo web simples com fins educativos desenvolv
   (Utilizar preferêncialmente a versão em destaque)
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
 
+&nbsp
+
 
 -Instalar a biblioteca React no seu terminal na pasta Web conforme a linha abaixo: 
 ![npx create](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/5b15a35a-fbe7-46cf-81a9-5a64926cd855)
