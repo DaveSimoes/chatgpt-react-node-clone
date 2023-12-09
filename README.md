@@ -1,4 +1,4 @@
-![gptlogo](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/3ddada09-9ab5-4592-8d36-7d32fbe9cb8d)
+                    ![gptlogo](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/3ddada09-9ab5-4592-8d36-7d32fbe9cb8d)
 
 
 
