@@ -15,6 +15,7 @@ The ChatGPT clone is a simple web application developed with the OpenAI library 
 
 #Pré-Requisitos:
 - Instalar Node : https://nodejs.org/en
+  (Utilizar preferêncialmente a versão em destaque)
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
 
 
