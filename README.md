@@ -1,6 +1,5 @@
-﻿<!-- <p align="center">
-[<img src="https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/a5784d5e-f053-4228-a9ca-36c70a2965ce)>](https://clubedamicha.com/wp-content/uploads/2023/03/Clube-da-Micha-e1677836370447-750x375.jpeg)
-</p> -->
+(https://clubedamicha.com/wp-content/uploads/2023/03/Clube-da-Micha-e1677836370447-750x375.jpeg)
+
 
 <h2 align="center">
  # ChatGPT-React-Node-clone
