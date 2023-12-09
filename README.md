@@ -13,9 +13,9 @@
 
 Este clone do ChatGPT é um aplicativo web simples com fins educativos desenvolvido com a biblioteca OpenAI e construído com React e Node.js; que permitirá aos usuários conversar com um modelo de linguagem de IA que responde em tempo real.
 
-#Pré-Requisitos:
-- Instalar Node : https://nodejs.org/en
- # (Utilizar preferêncialmente a versão em destaque)
+# Pré-Requisitos:
+# - Instalar Node : https://nodejs.org/en
+  (Utilizar preferêncialmente a versão em destaque)
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
 
 
