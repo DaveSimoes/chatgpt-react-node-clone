@@ -1,5 +1,5 @@
 ﻿<!-- <p align="center">
-<![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/a5784d5e-f053-4228-a9ca-36c70a2965ce)>
+<img src="https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/a5784d5e-f053-4228-a9ca-36c70a2965ce)>
 </p> -->
 
 <h2 align="center">
