@@ -16,6 +16,7 @@ Este clone do ChatGPT é um aplicativo web simples com fins educativos desenvolv
 # Pré-Requisitos:
 - Instalar Node : https://nodejs.org/en
   (Utilizar preferêncialmente a versão em destaque)
+  &nbsp
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
 
 &nbsp
