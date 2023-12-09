@@ -1,8 +1,6 @@
-![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/6e27fa55-7e4b-408c-b6d5-d46b876832aa)
-
-![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/a5784d5e-f053-4228-a9ca-36c70a2965ce)
-
-
+﻿<!-- <p align="center">
+<![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/a5784d5e-f053-4228-a9ca-36c70a2965ce)>
+</p> -->
 
 <h2 align="center">
  # ChatGPT-React-Node-clone
