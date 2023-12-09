@@ -1,8 +1,9 @@
-(https://clubedamicha.com/wp-content/uploads/2023/03/Clube-da-Micha-e1677836370447-750x375.jpeg)
+![gptlogo](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/3ddada09-9ab5-4592-8d36-7d32fbe9cb8d)
+
 
 
 <h2 align="center">
- # ChatGPT-React-Node-clone
+ ChatGPT-React-Node-clone
 </h2>
 
 
