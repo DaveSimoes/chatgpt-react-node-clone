@@ -1,6 +1,8 @@
+<div align="center">
+
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/0c8de8b1-53d0-47a5-ba5a-1c524026d7eb)
 
-
+</div>
  
 
 
