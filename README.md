@@ -17,7 +17,7 @@ This a full stack ChatGPT clone is a simple educational web application develope
 
 # Requirements:
 - Install Node : https://nodejs.org/en
-- Install npm package (Node Package Manager) : In terminal your run it in your project root folder, or the folder above your node_modules folder - https://docs.npmjs.com/
+- Install npm package (Node Package Manager) : Run it in your project root folder, or the folder above your node_modules folder - https://docs.npmjs.com/
   
 - 
  ```sh
