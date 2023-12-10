@@ -17,7 +17,7 @@ This full stack ChatGPT clone is a simple educational web application developed 
 
 # Requirements:
 - Install Node: https://nodejs.org/en
-- 
+  
   ```sh
     npm install -g node
   ```
@@ -45,15 +45,15 @@ gh repo clone DaveSimoes/chatgpt-react-node-clone
 # Stacks for this project :
 
 ### Backend
-   - Openai Library - https://platform.openai.com/docs/api-reference
+   - Openai Library 
    - Node 
    - Express
    - Javascript
    - Cors
   
 ### Frontend
-   - React - https://react.dev/
-   - Javascript - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+   - React 
+   - Javascript
 
 # Please install the dependencies by npm package:
 
@@ -76,6 +76,13 @@ $ cd web
 $ npm install
 $ npm start
 ```
+
+### Reference:
+- React - https://react.dev/
+- Javascript : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+- Openai Library : https://platform.openai.com/docs/api-reference
+-  NPM : https://docs.npmjs.com/
+-  
 <h2 align= "center">Show your support! </br>
 Thank You !</h2>
 ### Give a ⭐ if you like thisproject !
