@@ -27,6 +27,8 @@ This ChatGPT clone is a simple educational web application developed with the Op
 -Install the React library in your terminal in the Web folder according to the line below: 
 ![npx create](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/5b15a35a-fbe7-46cf-81a9-5a64926cd855)
 
+For more information about React.js: https://react.dev/
+
 
 
 
