@@ -1,5 +1,4 @@
 
-     ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/3e3cf949-ea49-4cca-a28a-e9222e744bd7)
 
  
 
