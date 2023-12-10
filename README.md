@@ -2,7 +2,7 @@
 
 <div align="center">
 
- ![gptlogo](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/3ddada09-9ab5-4592-8d36-7d32fbe9cb8d)
+ https://clubedamicha.com/wp-content/uploads/2023/03/Clube-da-Micha-e1677836370447-750x375.jpeg
 
 </div>
 
@@ -16,10 +16,10 @@ Este clone do ChatGPT é um aplicativo web simples com fins educativos desenvolv
 # Pré-Requisitos:
 - Instalar Node : https://nodejs.org/en
   (Utilizar preferêncialmente a versão em destaque)
-  &nbsp
+ 
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
 
-&nbsp
+
 
 
 -Instalar a biblioteca React no seu terminal na pasta Web conforme a linha abaixo: 
