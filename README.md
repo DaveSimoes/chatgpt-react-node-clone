@@ -1,8 +1,5 @@
 <div align="center">
-
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/655133f3-abf4-4833-b8c3-b5fb90b2e9ba)
-
-
 </div> 
 
 
@@ -13,17 +10,20 @@
 </h2>
 
 
-This a full stack ChatGPT clone is a simple educational web application developed with the OpenAI library and built with React and Node.js; it will allow users to chat with an AI language model that responds in real time.
+This full stack ChatGPT clone is a simple educational web application developed with the OpenAI library and built with React and Node.js; it will allow users to chat with an AI language model that responds in real time.
+
 
 # Requirements:
-- Install Node : https://nodejs.org/en
+- Install Node: https://nodejs.org/en
+- 
   ```sh
-$ npm install -g node
+    npm install -g node
   ```
+
 - Install Node Package Manager (npm) : https://docs.npmjs.com/
   
  ```sh
-$ npm init -y
+   npm init -y
  ```
  
  
@@ -31,10 +31,10 @@ $ npm init -y
 
 
 ## Getting Started
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 ```sh
 gh repo clone DaveSimoes/chatgpt-react-node-clone
 ```
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
 -Install the React library in your terminal in the Web folder according to the line below: 
 ![npx create](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/5b15a35a-fbe7-46cf-81a9-5a64926cd855)
@@ -54,16 +54,17 @@ Clone down this repository. You will need `node.js` and `git` installed globally
    - Javascript - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
 # Please install the dependencies by npm package:
+
 ```sh
  npm i cors dotenv express openai
 ```
+
 ### To run the Backend service, you need to type into your terminal according to the instructions below.
 ```sh
 $ cd server
 $ npm install
 $ npm start
 ```
-
 Once this is done, the backend service will be running on port :3000. 
 
 ### To run the Frontend service, please type in your terminal according to the instructions below.
@@ -73,4 +74,6 @@ $ cd web
 $ npm install
 $ npm start
 ```
-
+<h2 align= "center">Show your support! </br>
+Thank You !</h2>
+### Give a ⭐ if you like thisproject !
