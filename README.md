@@ -1,7 +1,7 @@
  
 
 <div align="center">
-![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/4c165aaa-0aab-4b9f-bc14-fa07d5d94917)
+![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d22e7c04-1ff3-4893-9914-2a9d1a57abb0)
 </div>
 
 <h2 align="center">
