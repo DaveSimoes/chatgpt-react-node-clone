@@ -1,6 +1,7 @@
  
 
 <div align="center">
+![openai-react-node](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/66487fb0-ef30-4f46-b8c8-61b25ba771b2)
 
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/4c165aaa-0aab-4b9f-bc14-fa07d5d94917)
 
