@@ -40,7 +40,7 @@ In your terminal install the React library in the Web folder according to the li
 # Stacks for this project :
 
 ### Backend
-   - Openai Library 
+   - OpenAI API
    - Node 
    - Express
    - Javascript
