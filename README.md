@@ -2,7 +2,7 @@
 
 <div align="center">
 
-"C:\Users\dspai\Desktop\gptlogo.png"
+![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/4c165aaa-0aab-4b9f-bc14-fa07d5d94917)
 
 </div>
 
