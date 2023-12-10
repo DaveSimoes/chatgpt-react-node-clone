@@ -84,6 +84,6 @@ $ npm start
    
 <div align="center">
 <h2 align= "center">Show your support! </br>
-Give a ⭐ if you like this project !</h2>
+Give a ⭐ !</h2>
 Thank You ! ☺️
 </div>
