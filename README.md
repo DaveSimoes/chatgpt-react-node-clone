@@ -28,8 +28,9 @@ $ npm init -y
 
 
 ## Getting Started
-
-
+```sh
+gh repo clone DaveSimoes/chatgpt-react-node-clone
+```
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
 -Install the React library in your terminal in the Web folder according to the line below: 
