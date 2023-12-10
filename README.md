@@ -22,23 +22,18 @@ This full stack ChatGPT clone is a simple educational web application developed 
     npm install -g node
   ```
 
-- Install Node Package Manager (npm) : https://docs.npmjs.com/
-  
- ```sh
-   npm init -y
- ```
- 
+
  
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
 
 
 ## Getting Started
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone down this repository. 
 ```sh
-gh repo clone DaveSimoes/chatgpt-react-node-clone
+Cli: gh repo clone DaveSimoes/chatgpt-react-node-clone
 ```
 
--Install the React library in your terminal in the Web folder according to the line below: 
+-In your terminal install the React library in the Web folder according to the line below: 
 ![npx create](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/5b15a35a-fbe7-46cf-81a9-5a64926cd855)
 
 
