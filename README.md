@@ -2,7 +2,7 @@
 
 <div align="center">
 
- https://clubedamicha.com/wp-content/uploads/2023/03/Clube-da-Micha-e1677836370447-750x375.jpeg
+ <https://clubedamicha.com/wp-content/uploads/2023/03/Clube-da-Micha-e1677836370447-750x375.jpeg>
 
 </div>
 
