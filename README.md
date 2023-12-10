@@ -1,10 +1,7 @@
  
 
 <div align="center">
-![openai-react-node](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/66487fb0-ef30-4f46-b8c8-61b25ba771b2)
-
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/4c165aaa-0aab-4b9f-bc14-fa07d5d94917)
-
 </div>
 
 <h2 align="center">
@@ -23,7 +20,7 @@ This ChatGPT clone is a simple educational web application developed with the Op
 
 
 
--Instalar a biblioteca React no seu terminal na pasta Web conforme a linha abaixo: 
+-Install the React library in your terminal in the Web folder according to the line below: 
 ![npx create](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/5b15a35a-fbe7-46cf-81a9-5a64926cd855)
 
 
