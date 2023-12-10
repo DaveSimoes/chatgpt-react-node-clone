@@ -50,23 +50,23 @@ Cli: gh repo clone DaveSimoes/chatgpt-react-node-clone
    - React 
    - Javascript
 
-# It´s necessary install the dependencies by npm package:
+### It´s necessary install the dependencies by npm package:
 
 ```sh
  npm i cors dotenv express openai
 ```
 
-### To run the Backend service, you need to type into your terminal according to the instructions below.
+## To run the Backend service, you need to type into your terminal according to the instructions below.
 ```sh
 $ cd server
 $ npm install
 $ npm start
 ```
-# Once this is done, the backend service will be running on port :3000. 
+## Once this is done, the backend service will be running on port :3000. 
 ```sh
   http://localhost:3000/
 ```
-### To run the Frontend service, please type in your terminal according to the instructions below.
+## To run the Frontend service, please type in your terminal according to the instructions below.
 
 ```sh
 $ cd web
@@ -81,5 +81,5 @@ $ npm start
 -  NPM : https://docs.npmjs.com/
 -  
 <h2 align= "center">Show your support! </br>
-Thank You !</h2>
-### Give a ⭐ if you like thisproject !
+Give a ⭐ if you like thisproject !</h2>
+### Thank You !
