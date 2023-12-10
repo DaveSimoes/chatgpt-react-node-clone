@@ -50,7 +50,7 @@ Cli: gh repo clone DaveSimoes/chatgpt-react-node-clone
    - React 
    - Javascript
 
-# Please install the dependencies by npm package:
+# It´s necessary install the dependencies by npm package:
 
 ```sh
  npm i cors dotenv express openai
