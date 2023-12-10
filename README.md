@@ -33,7 +33,7 @@ Cli: gh repo clone DaveSimoes/chatgpt-react-node-clone
 
 In your terminal install the React library in the Web folder according to the line below: 
 
-![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/8edf8f84-da49-4f39-a80e-c9ccd52ccf17)
+![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/47c93c6a-c246-44fd-9a7e-bb2e824ec686)
 
 
 
