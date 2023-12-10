@@ -22,45 +22,42 @@ This ChatGPT clone is a simple educational web application developed with the Op
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
 
 
+## Getting Started
 
+
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
 -Install the React library in your terminal in the Web folder according to the line below: 
 ![npx create](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/5b15a35a-fbe7-46cf-81a9-5a64926cd855)
 
-For more information about React.js: https://react.dev/
 
-
-
-
-
-
-# Tecnologia Utilizada :
+# Stacks for this project :
 
 ### Backend
-  - Node
-  - Express
-  - Javascript
-  - Cors
-
+   - Openai Library 
+   - Node 
+   - Express
+   - Javascript
+   - Cors
+  
 ### Frontend
-  - React
-  - Javascript
+   - React
+   - Javascript
 
-# Favor instalar as dependências:
+# Please install the dependencies by npm package:
 ```sh
  npm i cors dotenv express openai
 ```
-### Para executar o serviço do backend é preciso escrever em seu terminal conforme as instruções abaixo.
-
+### To run the Backend service, you need to type into your terminal according to the instructions below.
 ```sh
 $ cd server
 $ npm install
 $ npm start
 ```
 
-Feito isso o serviço de backend estará funcionando na porta :3000. 
+Once this is done, the backend service will be running on port :3000. 
 
-### Para executar o serviço do frontend, favor escrever em seu terminal cconforme as instruções abaixo.
+### To run the Frontend service, please type in your terminal according to the instructions below.
 
 ```sh
 $ cd web
