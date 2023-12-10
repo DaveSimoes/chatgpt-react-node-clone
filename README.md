@@ -62,8 +62,10 @@ $ cd server
 $ npm install
 $ npm start
 ```
-Once this is done, the backend service will be running on port :3000. 
-
+# Once this is done, the backend service will be running on port :3000. 
+```sh
+  http://localhost:3000/
+```
 ### To run the Frontend service, please type in your terminal according to the instructions below.
 
 ```sh
