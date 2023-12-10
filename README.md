@@ -51,7 +51,7 @@ In your terminal install the React library in the Web folder according to the li
    - React 
    - Javascript
 
-### It´s necessary install the dependencies by npm package:
+## It´s necessary install the dependencies by npm package:
 
 ```sh
  npm i cors dotenv express openai
