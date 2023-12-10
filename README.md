@@ -13,10 +13,16 @@
 </h2>
 
 
-This ChatGPT clone is a simple educational web application developed with the OpenAI library and built with React and Node.js; it will allow users to chat with an AI language model that responds in real time.
+This a full stack ChatGPT clone is a simple educational web application developed with the OpenAI library and built with React and Node.js; it will allow users to chat with an AI language model that responds in real time.
 
 # Requirements:
 - Install Node : https://nodejs.org/en
+- Install npm package (Node Package Manager) : In terminal your run it in your project root folder, or the folder above your node_modules folder - https://docs.npmjs.com/
+  
+- 
+ ```sh
+$ npm init -y
+ ```
  
  
 ![image](https://github.com/DaveSimoes/chatgpt-react-node-clone/assets/109705197/d2861369-d049-42be-b741-b0641fd1c9ac)
