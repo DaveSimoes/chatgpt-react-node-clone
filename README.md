@@ -15,7 +15,10 @@
 This full stack ChatGPT clone is a simple educational web application developed with the OpenAI library and built with React and Node.js.
 It allows users to chat with an AI language model that responds in real time.
 
-   🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
+
+ ```
+🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
+```
 
    
 # Requirement:
